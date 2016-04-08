@@ -5,7 +5,7 @@ Uzip the file into a folder of your liking.
 
 Import the project into Android Studio
 
-Traverse to app/src/main/java/com/example/suleiman_namara/doodler/MainActvivity to run the project
+Traverse to the app src folder,find the Main Activity and run the application.
 
 After compiling on an emulator/ android device the doodler application will open.
 
